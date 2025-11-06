@@ -16,6 +16,4 @@ It visualizes clusters, evaluates performance, and interprets customer groups fo
 - Jupyter Notebook
 - SQL
 
-## Visualization
-![Customer Segments](images/clusters_plot.png)
 
